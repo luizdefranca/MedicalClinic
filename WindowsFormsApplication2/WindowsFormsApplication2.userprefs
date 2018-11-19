@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="WindowsFormsApplication1\WindowsFormsApplication1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApplication1\Form2.Designer.cs">
+    <Files>
+      <File FileName="ClassLibrary2\NutricionistaDAO.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary1\Nutricionista.cs" Line="1" Column="1" />
+      <File FileName="ClinicaNutrical.View\FormLogin.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary2\PrescricaoDAO.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary1\Prescricao.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary1\TipoPrescricao.cs" Line="14" Column="25" />
+      <File FileName="WindowsFormsApplication1\Form1.cs" Line="17" Column="35" />
+      <File FileName="c:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication1\Program.cs" Line="19" Column="33" />
+      <File FileName="..\..\..\..\..\..\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets" Line="2454" Column="5" />
+      <File FileName="WindowsFormsApplication1\Consulta.cs" Line="11" Column="31" />
+      <File FileName="WindowsFormsApplication1\Form2.Designer.cs" Line="14" Column="56" />
+      <File FileName="WindowsFormsApplication1\Form2.resx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ClinicaClass.consulta" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ClinicaClass.consulta" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:49979/Service1.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/ClinicaClass.nutricionista" />
+  <xs:import schemaLocation="http://localhost:49979/Service1.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/ClinicaClass.paciente" />
+  <xs:complexType name="Consulta">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Altura" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CodigoConsulta" type="xs:int" />
+      <xs:element minOccurs="0" name="DataConsulta" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="HistoricoFamiliar" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Medidas" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ClinicaClass.nutricionista" minOccurs="0" name="Nutricionista" nillable="true" type="q1:Nutricionista" />
+      <xs:element minOccurs="0" name="Objetivo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Observacao" nillable="true" type="xs:string" />
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/ClinicaClass.paciente" minOccurs="0" name="Paciente" nillable="true" type="q2:Paciente" />
+      <xs:element minOccurs="0" name="Peso" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PressaoArterial" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProblemaSaude" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RestricoesAlimentares" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Status" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UsoMedicamento" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Consulta" nillable="true" type="tns:Consulta" />
+  <xs:complexType name="ArrayOfConsulta">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Consulta" nillable="true" type="tns:Consulta" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfConsulta" nillable="true" type="tns:ArrayOfConsulta" />
+</xs:schema>

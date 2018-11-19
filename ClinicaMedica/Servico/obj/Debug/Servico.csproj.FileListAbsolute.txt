@@ -1,0 +1,15 @@
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\bin\Servico.dll.config
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\bin\Servico.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\bin\Servico.pdb
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\bin\ClinicaClass.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\bin\ClinicaClass.pdb
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\obj\Debug\Servico.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\Servico\obj\Debug\Servico.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\bin\Servico.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\bin\Servico.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\bin\ClinicaClass.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\bin\ClinicaClass.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\obj\Debug\Servico.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\Servico\obj\Debug\Servico.pdb

@@ -1,0 +1,4 @@
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\UtilClass\bin\Debug\UtilClass.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\UtilClass\bin\Debug\UtilClass.pdb
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\UtilClass\obj\Debug\UtilClass.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\UtilClass\obj\Debug\UtilClass.pdb

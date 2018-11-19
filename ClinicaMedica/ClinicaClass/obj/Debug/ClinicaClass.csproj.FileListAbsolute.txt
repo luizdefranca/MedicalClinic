@@ -1,0 +1,8 @@
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\ClinicaClass\bin\Debug\ClinicaClass.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\ClinicaClass\bin\Debug\ClinicaClass.pdb
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\ClinicaClass\obj\Debug\ClinicaClass.dll
+F:\Repositórios\Visual Studio\Projetos\ClinicaMedica\ClinicaClass\obj\Debug\ClinicaClass.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\ClinicaClass\bin\Debug\ClinicaClass.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\ClinicaClass\bin\Debug\ClinicaClass.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\ClinicaClass\obj\Debug\ClinicaClass.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\ClinicaMedica - Versão 0.4 - Final - Gladstone\ClinicaMedica\ClinicaClass\obj\Debug\ClinicaClass.pdb

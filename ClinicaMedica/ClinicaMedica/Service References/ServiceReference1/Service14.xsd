@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/ClinicaClass.paciente" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ClinicaClass.paciente" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:49979/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="ArrayOfPaciente">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Paciente" nillable="true" type="tns:Paciente" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPaciente" nillable="true" type="tns:ArrayOfPaciente" />
+  <xs:complexType name="Paciente">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Atividade" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CodigoPaciente" type="xs:int" />
+      <xs:element minOccurs="0" name="Cpf" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DataNascimento" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Endereco" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nome" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sexo" type="ser:char" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Paciente" nillable="true" type="tns:Paciente" />
+</xs:schema>

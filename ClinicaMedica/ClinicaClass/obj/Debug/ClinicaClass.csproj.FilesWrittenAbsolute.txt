@@ -1,0 +1,7 @@
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/bin/Debug/ClinicaClass.dll.mdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/bin/Debug/ClinicaClass.pdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/bin/Debug/ClinicaClass.dll
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/obj/Debug/ClinicaClass.dll
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/obj/Debug/ClinicaClass.dll.mdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/ClinicaClass/obj/Debug/ClinicaClass.pdb

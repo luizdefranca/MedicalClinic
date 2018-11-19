@@ -1,0 +1,10 @@
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/bin/Servico.dll.mdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/bin/Servico.pdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/bin/Servico.dll
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/obj/Debug/Servico.dll
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/obj/Debug/Servico.dll.mdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/obj/Debug/Servico.pdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/bin/ClinicaClass.dll
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/bin/ClinicaClass.dll.mdb
+/Volumes/NTFS/Users/Luiz/Documents/Visual Studio 2012/Projects/ClinicaMedica - Versão 0.4 - Final - Gladstone/ClinicaMedica/Servico/bin/ClinicaClass.pdb

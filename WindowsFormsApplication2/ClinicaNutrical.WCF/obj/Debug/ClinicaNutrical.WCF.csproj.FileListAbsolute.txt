@@ -1,0 +1,15 @@
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClinicaNutrical.WCF.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClinicaNutrical.WCF.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClassLibrary1.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClassLibrary2.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClinicaNutrical.Controller.exe
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClassLibrary1.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClassLibrary2.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\ClinicaNutrical.Controller.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\obj\Debug\ClinicaNutrical.WCF.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\obj\Debug\ClinicaNutrical.WCF.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClinicaNutrical.WCF\obj\Debug\ClinicaNutrical.WCF.pdb

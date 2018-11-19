@@ -1,0 +1,15 @@
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.xml
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClinicaNutrical.Model.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Luiz\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
